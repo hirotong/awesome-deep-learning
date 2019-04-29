@@ -3,7 +3,7 @@
 
 
 import numpy as np
-
+import
 
 class ReluActivator(object):
     def forward(self, weighted_input):
